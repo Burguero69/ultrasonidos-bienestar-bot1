@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2","googleapis":"^144.0.0"},"description":"Bot de WhatsApp Business y Messenger para Ultrasonidos Bienestar, con Google Sheets como base de datos (citas, respuestas, horarios y servicios).","main":"server.js","name":"ultrasonidos-bienestar-bot","scripts":{"start":"node server.js"},"version":"0.1.0"}
